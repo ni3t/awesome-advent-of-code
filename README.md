@@ -128,7 +128,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in C.*
 
-* [breakthatbass/advent_of_code2020](https://github.com/breakthatbass/advent_of_code2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--04--27-brightgreen)
+* [breakthatbass/advent_of_code2020](https://github.com/breakthatbass/advent_of_code2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--05--07-brightgreen)
 
 #### C#
 
@@ -327,7 +327,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in TypeScript.*
 
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--04--09-brightgreen)
-* [RubenVerg/aoc2020](https://github.com/RubenVerg/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--08-yellow)
+* [RubenVerg/aoc2020](https://github.com/RubenVerg/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--05--09-brightgreen)
 
 #### Unison
 
